@@ -69,6 +69,7 @@ The application will be available at the local URL shown in your terminal.
 
 ## 🔑 API Configuration
 
+
 If the project uses the TMDB API, create an environment file in the project root:
 
 ```text
